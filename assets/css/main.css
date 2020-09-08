@@ -1412,7 +1412,7 @@ blockquote {
   padding: 0.5rem 0 0.5rem 2rem;
 }
 
-code {
+/* code {
   border: solid 2px;
   font-family: "Courier New", monospace;
   font-size: 0.9rem;
@@ -1432,7 +1432,7 @@ pre code {
   line-height: 1.75;
   padding: 1rem 1.5rem;
   overflow-x: auto;
-}
+} */
 
 hr {
   border: 0;

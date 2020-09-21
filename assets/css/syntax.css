@@ -8,7 +8,7 @@
 
 .highlight pre code {
     background-color: #343a40;
-    font-size: 12px;
+    font-size: 0.9rem;
     color: #eee;
     filter: saturate(0.5);
 }
